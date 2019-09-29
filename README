@@ -1,0 +1,28 @@
+Stacking sPectrA foR disK Structure (SPARKS)
+
+author: 
+    Zhe-Yu Daniel Lin, Department of Astronomy, University of Virginia 
+        (email: zdl3gk@virginia.edu)
+advisors: 
+    Hsi-Wei Yen, Academia Sinica Institute of Astronomy and Astrophysics
+    Zhi-Yun Li, Department of Astronomy, University of Virginia
+
+supported by:
+    Zhi-Yun Li
+
+This code is used for stacking spectra to derive disk properties, such as the rotational velocity, disk height, etc. 
+Dependencies:
+- numpy
+- matplotlib
+- scipy
+- astropy.io
+
+== User agreement ==
+This code is still under development and several places may break. The author gives permission to anyone to use any part of the code, but be aware that we do not guarantee the valildity of the results and we are not responsible for any consequences. Please use it at your own risk. 
+On the other hand, for anyone who wishes to include any part of the code to a published paper, please contact the main author for permission. This is so that we can help out with verifying the results.
+Feel free to reach out if you feel like providing any suggestions or reporting any bugs! 
+
+== Brief Description of the files ==
+- README	(this file)
+- projecttemplate
+  - directory to store some basic templates in using sparks
